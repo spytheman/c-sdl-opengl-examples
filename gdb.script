@@ -1,0 +1,8 @@
+set pagination off
+b 47
+commands
+silent
+print ang
+continue
+end
+run

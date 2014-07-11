@@ -1,4 +1,4 @@
-CFLAGS=-Os -fomit-frame-pointer 
+CFLAGS=-g
 LDFLAGS=-lSDL -lGL
 
 all: triangle
