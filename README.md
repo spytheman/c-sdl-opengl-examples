@@ -1,11 +1,12 @@
-Source: http://www.int21.de/linux4k/
+Original OpenGL Triangle Source: 
+http://www.int21.de/linux4k/
 
-To build:
-  make all
+Building:
+    make clean all
 
-To run:
-  ./triangle
+Running:  
+    ./triangle
 
-Example of debugging with a gdb script:
-  gdb -x gdb.script triangle
+Debugging (with a gdb script):  
+    gdb -x gdb.script triangle
 
