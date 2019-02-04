@@ -1,5 +1,5 @@
 CFLAGS=-g
-LDFLAGS=-lSDL -lGL
+LDLIBS=-lSDL -lGL
 
 all: triangle
 
